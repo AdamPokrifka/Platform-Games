@@ -1,0 +1,11 @@
+C:\Users\apokrifka\Desktop\C#\PlatformV1\bin\Debug\PlatformV1.exe.config
+C:\Users\apokrifka\Desktop\C#\PlatformV1\bin\Debug\PlatformV1.exe
+C:\Users\apokrifka\Desktop\C#\PlatformV1\bin\Debug\PlatformV1.pdb
+C:\Users\apokrifka\Desktop\C#\PlatformV1\obj\Debug\PlatformV1.csproj.AssemblyReference.cache
+C:\Users\apokrifka\Desktop\C#\PlatformV1\obj\Debug\PlatformV1.Form1.resources
+C:\Users\apokrifka\Desktop\C#\PlatformV1\obj\Debug\PlatformV1.Properties.Resources.resources
+C:\Users\apokrifka\Desktop\C#\PlatformV1\obj\Debug\PlatformV1.csproj.GenerateResource.cache
+C:\Users\apokrifka\Desktop\C#\PlatformV1\obj\Debug\PlatformV1.csproj.CoreCompileInputs.cache
+C:\Users\apokrifka\Desktop\C#\PlatformV1\obj\Debug\PlatformV1.exe
+C:\Users\apokrifka\Desktop\C#\PlatformV1\obj\Debug\PlatformV1.pdb
+C:\Users\apokrifka\Desktop\C#\PlatformV1\obj\Debug\PlatformV1.exe.config
