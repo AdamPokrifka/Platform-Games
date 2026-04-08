@@ -1,0 +1,11 @@
+C:\Users\apokrifka\Desktop\C#\PlatformV3\obj\Debug\PlatformV3.csproj.AssemblyReference.cache
+C:\Users\apokrifka\Desktop\C#\PlatformV3\obj\Debug\PlatformV3.Form1.resources
+C:\Users\apokrifka\Desktop\C#\PlatformV3\obj\Debug\PlatformV3.Properties.Resources.resources
+C:\Users\apokrifka\Desktop\C#\PlatformV3\obj\Debug\PlatformV3.csproj.GenerateResource.cache
+C:\Users\apokrifka\Desktop\C#\PlatformV3\obj\Debug\PlatformV3.csproj.CoreCompileInputs.cache
+C:\Users\apokrifka\Desktop\C#\PlatformV3\bin\Debug\PlatformV3.exe.config
+C:\Users\apokrifka\Desktop\C#\PlatformV3\bin\Debug\PlatformV3.exe
+C:\Users\apokrifka\Desktop\C#\PlatformV3\bin\Debug\PlatformV3.pdb
+C:\Users\apokrifka\Desktop\C#\PlatformV3\obj\Debug\PlatformV3.exe
+C:\Users\apokrifka\Desktop\C#\PlatformV3\obj\Debug\PlatformV3.pdb
+C:\Users\apokrifka\Desktop\C#\PlatformV3\obj\Debug\PlatformV3.exe.config
